@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> মাঝ রাতে কেন আসে এত স্মৃতি
+> অন্ধকারে খুঁজি আমি তোমার প্রীতি
+> নিঃশ্বাসে মিশে আছে অদ্ভুত মায়া
+> আমারই চারপাশে শুধু তোমার ছায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
